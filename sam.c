@@ -1,3 +1,3 @@
-MediaKeyMessageEvent\
+MediaKeyMessageEvent
 hello guys welcome back to my youtube channel
-console.log("conflict created")
+console.log("Merge conflict point resolved.");
