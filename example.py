@@ -1,3 +1,4 @@
+# Added directly from GitHub web.
 def selection_sort(arr):
     n = len(arr)
     for i in range(n):
