@@ -1,4 +1,4 @@
-# Added from my local IDE
+# Added from my we
 def selection_sort(arr):
     n = len(arr)
     for i in range(n):
