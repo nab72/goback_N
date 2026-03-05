@@ -14,4 +14,4 @@ if __name__ == "__main__":
     print("Original:", data)
     sorted_arr = selection_sort(data.copy())
     print("Sorted:", sorted_arr)
-
+#from ide
