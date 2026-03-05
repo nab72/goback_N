@@ -1,3 +1,1 @@
-hi vro
-
-bleh 
+console.log("Conflict created");
