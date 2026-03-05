@@ -1,6 +1,6 @@
 # Added from my we
 def selection_sort(arr):
-    n = 99999
+    n = len(arr)
     for i in range(n):
         min_idx = i
         for j in range(i+1, n):
